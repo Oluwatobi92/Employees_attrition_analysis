@@ -14,8 +14,12 @@ Despite being a prominent player in the energy sector, Sunshine Oil and Gas is e
 ## <p align='left'/> Data sourcing </p>
 This project is focused on analyzing employee attrition within an imaginary company called Sunshine Oil and Gas. The dataset for this analysis was sourced online and it contains information on employee demographics, job-related variables, and satisfaction levels.
 ## <p align='left'/> Data cleaning and transformation </p>
-The data was efficiently cleaned and transformed with the power query editor of powerbi. Some of the applied steps includes the following;
+For data visualization, I employed Power BI, utilizing its Query Editor functionality for data cleaning.. Some of the applied steps includes the following;
 - used first row as header
 - reviewed each column to ensure it was in the appropriate data type. Any columns found to be in the wrong data type were corrected to the right data type.
 - added a conditional column.
+# <div align='center'/><img src='Images/Image2.JPG'></div>
 ## <p align='left'/> Data visualization </p>
+I utilized Power BI exclusively for data visualization purposes. Leveraging its robust visualization features, I created insightful charts, graphs, and interactive dashboards to represent key insights derived from the dataset provided.
+# <div align='center'/><img src='Images/Image3.JPG'></div>
+# <div align='center'/><img src='Images/Image4.JPG'></div>

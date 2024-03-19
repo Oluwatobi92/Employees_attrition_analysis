@@ -23,3 +23,19 @@ For data visualization, I employed Power BI, utilizing its Query Editor function
 I utilized Power BI exclusively for data visualization purposes. Leveraging its robust visualization features, I created insightful charts, graphs, and interactive dashboards to represent key insights derived from the dataset provided.
 # <div align='center'/><img src='Images/Image3.JPG'></div>
 # <div align='center'/><img src='Images/Image4.JPG'></div>
+# <p align='left'/> Insights from data </p>
+- The total number of employees at Sunshine Oil and Gas is 1470, with 1233 currently active and 237 having experienced attrition. This indicates an attrition rate of 16%. Additionally, the average age of employees is 37.
+- Among the 237 employees who experienced attrition, 133 were from the Research & Development (R&D) department, 92 were from the Sales department, and 12 were from Human Resources (HR).
+- Among employees who experienced attrition, those with a bachelor's degree had the highest attrition rates, with 61 males and 38 females while those with doctoral degrees have the lowest attrition rate with 2 males and 3 females. This could be attributed to reasons such as employees leaving to seek greener pastures, pursue higher academic qualifications, or explore better career opportunities elsewhere.
+- Also from the data, a total of 150 male employees and 87 female employees left the company. This suggests that attrition rates among male employees are higher compared to female employees.
+
+# <p align='left'/> Recommendation </p>
+- Tailoring retention strategies to address the unique needs and challenges of each department can help mitigate attrition rates. Additionally, fostering a culture of open communication and providing opportunities for career growth and development within each department may enhance employee satisfaction and retention.
+- To address attrition rates among employees with bachelor's degrees, consider implementing targeted retention strategies such as career development programs, mentorship initiatives, and opportunities for advancement. Additionally, conducting surveys or focus groups to gather feedback from employees with bachelor's degrees can help identify specific areas for improvement in their work experience and job satisfaction. For employees with other academic qualifications, tailor retention efforts based on their unique needs and preferences, ensuring that all employees feel valued and supported in their roles.
+- To address the higher attrition rates among male employees, consider conducting targeted surveys or exit interviews to gain insights into the specific reasons driving their departure. Additionally, implementing initiatives such as flexible work arrangements, leadership development programs, and employee recognition schemes may help improve male employee retention. Furthermore, fostering a supportive work culture that values diversity and inclusion can contribute to increased employee satisfaction and reduced turnover among both male and female employees.
+
+
+
+
+
+# <p align='left'/> Conclusion </p>

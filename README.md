@@ -1,7 +1,7 @@
 # <p align='center'/> SUNSHINE ATTRITION ANALYSIS </p>
 # <div align='center'/><img src='Images/Image1.jpeg'></div>
 ## <p align='left'/> Introduction </p>
-In this project, we delve into the dynamics of employee attrition within Sunshine Oil and Gas, utilizing data encompassing various facets of employee demographics, job-related factors, and satisfaction levels. By analyzing factors such as gender, age, job role, education field, marital status, distance from home, job satisfaction, environmental satisfaction, employment history, and education level, we aim to uncover insights that can inform strategies to mitigate attrition and foster a more engaged and satisfied workforce.
+In this project, we delve into the dynamics of employee attrition within an imaginary company named Sunshine Oil and Gas, utilizing data encompassing various facets of employee demographics, job-related factors, and satisfaction levels. By analyzing factors such as gender, age, job role, education field, marital status, distance from home, job satisfaction, environmental satisfaction, employment history, and education level, we aim to uncover insights that can inform strategies to mitigate attrition and foster a more engaged and satisfied workforce.
 ## <p align='left'/> Aims and objectives </p>
 - Identify key factors contributing to employee attrition within Sunshine Oil and Gas by analyzing the distribution of employment statuses and exploring demographic and job-related trends.
 - Assess the impact of job satisfaction, environmental satisfaction, distance from home, prior employment history, and educational background on attrition rates.
@@ -12,7 +12,7 @@ In this project, we delve into the dynamics of employee attrition within Sunshin
 ## <p align='left'/> Problem statement </p>
 Despite being a prominent player in the energy sector, Sunshine Oil and Gas is experiencing a concerning rate of employee attrition. This phenomenon poses a significant challenge to the company's operational stability, employee morale, and long-term growth prospects. To address this issue effectively, it is imperative to gain a comprehensive understanding of the underlying factors contributing to attrition within the organization. By analyzing employee demographics, job-related variables, and satisfaction levels, this study aims to identify the root causes of attrition and propose actionable insights to mitigate its impact, improve retention strategies, and foster a more engaged and stable workforce.
 ## <p align='left'/> Data sourcing </p>
-This project is focused on analyzing employee attrition within an imaginary company called Sunshine Oil and Gas. The dataset for this analysis was sourced online and it contains information on employee demographics, job-related variables, and satisfaction levels.
+This project is focused on analyzing employee attrition within an imaginary company called Sunshine Oil and Gas. The dataset for this analysis was given by Mr. Temidayo Ayeni, the facilitator of the Skilharvest data analysis bootcamp and it contains information on employee demographics, job-related variables, and satisfaction levels.
 ## <p align='left'/> Data cleaning and transformation </p>
 For data visualization, I employed Power BI, utilizing its Query Editor functionality for data cleaning.. Some of the applied steps includes the following;
 - used first row as header
@@ -32,6 +32,8 @@ I utilized Power BI exclusively for data visualization purposes. Leveraging its 
 - Among employees who left the company, the highest number falls within the age group of 25-34, totaling 112 employees, while the lowest number is in the over 55 age group, with only 11 employees. Employees in the younger age group may be more likely to seek new opportunities for career growth, better compensation, or improved work-life balance while the older age group may be approaching retirement; and they may also leave the company due to health reasons, personal obligations, or a desire for reduced workload.
 - Analysis of the data reveals that laboratory technicians and sales executives have the highest number of employees who report being least satisfied with their job. This dissatisfaction likely contributes to the higher attrition rates observed within these job roles.
 - The data indicates that the highest number of employees who experienced attrition reside within one or two kilometers from the company. A possible reason for this trend could be the presence of industrial waste produced by the company, creating an unfavorable environment for employees and necessitating their relocation, ultimately leading to attrition from the company.
+- The data reveals that the highest number of employees who left the company had previously worked with only one or two companies before joining Sunshine Oil and Gas. This suggests a potential correlation between limited prior employment experience and higher attrition rates. Possible reasons for this trend could include limited career exploration, mismatched expectations, and opportunity seeking.
+- Among active employees, the sales executives and research scientists exhibit the highest number of individuals reporting the least satisfaction with their jobs. This dissatisfaction could potentially contribute to severe attrition rates within these job roles.
 
 # <p align='left'/> Recommendation </p>
 - Tailoring retention strategies to address the unique needs and challenges of each department can help mitigate attrition rates. Additionally, fostering a culture of open communication and providing opportunities for career growth and development within each department may enhance employee satisfaction and retention.
@@ -41,13 +43,7 @@ I utilized Power BI exclusively for data visualization purposes. Leveraging its 
 - To address attrition among employees aged 25-34, consider implementing retention strategies such as career development programs, mentorship initiatives, and opportunities for advancement. Providing competitive compensation packages and work-life balance benefits may also help retain younger employees.
 - To address job dissatisfaction among laboratory technicians and sales executives, consider implementing measures to improve their work environment, such as providing opportunities for skill development, offering performance-based incentives, or enhancing recognition programs.
 - To address the potential impact of environmental factors on employee attrition, consider conducting environmental assessments to identify and mitigate any issues contributing to employee dissatisfaction or health concerns. Implementing measures to improve environmental sustainability, such as waste management initiatives or pollution control measures, can help create a safer and healthier workplace environment. Additionally, providing support for employees affected by environmental factors, such as relocation assistance or remote work options, can help mitigate attrition rates and foster employee retention.
-
-
-
-
-
-
-
-
-
+- To address attrition among employees with limited prior employment experience, consider implementing initiatives to enhance employee engagement and satisfaction, such as mentorship programs, career development opportunities, and clear pathways for advancement within the company. Additionally, the company should consider hiring employees who have worked in a higher number of companies in future recruitment exercises.
+- To address job dissatisfaction among sales executives and research scientists, consider implementing measures such as providing additional support/resources, offering opportunities for skill development and career advancement, or revising performance evaluation methods to better reflect employee contributions. Conducting regular employee satisfaction surveys and feedback sessions can also help identify specific areas for improvement and guide targeted interventions.
 # <p align='left'/> Conclusion </p>
+In conclusion, the analysis of employee attrition within Sunshine Oil and Gas has revealed several key insights and recommendations. By examining various factors such as demographic characteristics, job roles, and job satisfaction levels, we have identified potential drivers of attrition and proposed targeted strategies to mitigate turnover. Addressing these issues through initiatives such as career development programs, enhanced workplace culture, and targeted recruitment efforts can help improve employee retention and foster a more engaged and satisfied workforce. Moving forward, implementing these recommendations will be crucial in enhancing organizational stability and promoting long-term growth and success for Sunshine Oil and Gas.

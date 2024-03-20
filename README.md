@@ -1,4 +1,4 @@
-# <p align='center'/> SUNSHINE ATTRITION ANALYSIS </p>
+# <p align='center'/> SUNSHINE OIL & GAS ATTRITION ANALYSIS </p>
 # <div align='center'/><img src='Images/Image1.jpeg'></div>
 ## <p align='left'/> Introduction </p>
 In this project, we delve into the dynamics of employee attrition within an imaginary company named Sunshine Oil and Gas, utilizing data encompassing various facets of employee demographics, job-related factors, and satisfaction levels. By analyzing factors such as gender, age, job role, education field, marital status, distance from home, job satisfaction, environmental satisfaction, employment history, and education level, we aim to uncover insights that can inform strategies to mitigate attrition and foster a more engaged and satisfied workforce.

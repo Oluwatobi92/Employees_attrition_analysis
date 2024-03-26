@@ -23,6 +23,8 @@ For data visualization, I employed Power BI, utilizing its Query Editor function
 I utilized Power BI exclusively for data visualization purposes. Leveraging its robust visualization features, I created insightful charts, graphs, and interactive dashboards to represent key insights derived from the dataset provided.
 # <div align='center'/><img src='Images/Image3.JPG'></div>
 # <div align='center'/><img src='Images/Image4.JPG'></div>
+## <p align='left'/> Data presentation </p>
+To present my analysis, I have created a video using Loom, a screen recording and video messaging tool to provide a comprehensive overview of the analysis findings of my data. You can view the video presentation [here](https://www.loom.com/share/eebf56d73e5e47d5bdbce5f598d37b0c?sid=cf5afd53-f670-4311-9093-ce81663b0a18)
 ## <p align='left'/> Insights from data </p>
 - The total number of employees at Sunshine Oil and Gas is 1470, with 1233 currently active and 237 having experienced attrition. This indicates an attrition rate of 16%. Additionally, the average age of employees is 37.
 - Among the 237 employees who experienced attrition, 133 were from the Research & Development (R&D) department, 92 were from the Sales department, and 12 were from Human Resources (HR).
